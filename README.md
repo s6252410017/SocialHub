@@ -1,5 +1,5 @@
 # SocialHub HTML&CSS
-born to Dev Project
+Fundamental Web Dev with HTML5 & CSS3 (borntoDev Project)
 
 HOME
 
