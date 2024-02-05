@@ -21,6 +21,6 @@ LINK Butttons
 <img src = "https://github.com/s6252410017/SocialHub/assets/69613390/921ccc23-a7b7-488e-bdf2-2e4feff61084.png width = 250">
 
 
-title logo&title name
+logo&title name
 
 <img src = "https://github.com/s6252410017/SocialHub/assets/69613390/6e72999a-e28e-4f96-99f4-418caee45c80.png width = 250">
